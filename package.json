@@ -1,0 +1,19 @@
+{
+  "name": "dallasteenbot",
+  "version": "1.0.0",
+  "description": "Discord Bot for the Combined Dallas Teens Server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Chr1s",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
